@@ -23,7 +23,7 @@ function gay() {
 }
 
 submit.addEventListener('click', function() {
-    result.textContent = `${"You have purchased " + thing + " number of things"}`
+    result.textContent = `${"You have purchased " + thing + " number of bruh"}`
     if(thing < 0 ) {
         result.textContent = `${"bruh"}`
 
